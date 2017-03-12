@@ -1,3 +1,4 @@
+#Author: Wesley Mok
 #program makes use of file manipulation and web scraping
 #used to query a website
 #https://tech4lib.wordpress.com/2015/06/21/sending-http-requests-with-python-httplib-vs-requests/
